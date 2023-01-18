@@ -36,7 +36,7 @@ if __name__=="__main__":
     while(True):
         welcomemsg = '''\n*****Welcome to Central Library*****
         Please choose an option:
-        1. list of all the books
+        1. List of all the books
         2. Borrow book
         3. Add/Return Book
         4. Exit the Library
